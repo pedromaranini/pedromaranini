@@ -1,8 +1,8 @@
 
 ## console.log("Hello World, I'm Pedro Maranini. Welcome to my profile!"); 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-pedromaranini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromaranini30/)](https://www.linkedin.com/in/pedromaranini30/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrolucasmaranini30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrolucasmaranini30@gmail.com)](mailto:pedrolucasmaranini30@gmail.com)
+              [![Linkedin Badge](https://img.shields.io/badge/-pedromaranini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromaranini30/)](https://www.linkedin.com/in/pedromaranini30/)
+              [![Gmail Badge](https://img.shields.io/badge/-pedrolucasmaranini30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrolucasmaranini30@gmail.com)](mailto:pedrolucasmaranini30@gmail.com)
 
 
 ###     🖥️ I’m student of Analysis and Development of Systems in Fatec.
