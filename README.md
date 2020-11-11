@@ -31,12 +31,24 @@
        <img alt="JavaScript" width="35px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
    </a>
     
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+       <img alt="HTML" width="35px" src="https://img2.gratispng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://www.w3schools.com/css/">
+       <img alt="CSS" width="35px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+   </a>
+    
    <a href="https://reactjs.org/">
-       <img alt="React" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
+       <img alt="ReactJS" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://expo.io/">
        <img alt="Expo" width="35px" src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F307441%2F815fd2ae-b05f-7a2f-e8af-63f70911eb59.png?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&s=7b46ae57fbaf4b744e3222abbc859b97"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://nodejs.org/en/">
+       <img alt="NodeJS" width="35px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/> &nbsp;&nbsp;
    </a>
 </p>
 
