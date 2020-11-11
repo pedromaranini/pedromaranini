@@ -32,11 +32,11 @@
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="40px" src="https://img2.gratispng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"/> &nbsp;&nbsp;
+       <img alt="HTML" width="45px" src="https://img2.gratispng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-       <img alt="CSS" width="30px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+       <img alt="CSS" width="25px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
@@ -48,7 +48,7 @@
    </a>
    
    <a href="https://nodejs.org/en/">
-       <img alt="NodeJS" width="35px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/> &nbsp;&nbsp;
+       <img alt="NodeJS" width="33px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/> &nbsp;&nbsp;
    </a>
 </p>
 
