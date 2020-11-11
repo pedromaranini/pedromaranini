@@ -1,10 +1,8 @@
 <p align="center">
     <a href="https://github.com/pedromaranini">
-      
+      <img align="left" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
     </a>
 </p>
-
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a            href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedromaranini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromaranini30/)](https://www.linkedin.com/in/pedromaranini30/)
