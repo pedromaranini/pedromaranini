@@ -1,7 +1,6 @@
 
 <p align="center">
-    <a
-    <img href="https://github.com/pedromaranini" src="https://ibb.co/dg1Qg8z" alt="my-Logo-1" border="0" />
+    <img href="https://github.com/pedromaranini" src="https://i.ibb.co/nCZDCx5/my-Logo-1.jpg" alt="my-Logo-1" border="0" />
     <img href="https://github.com/pedromaranini" align="right" width="400" height="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
 </p>
 
