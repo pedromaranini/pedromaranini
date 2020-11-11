@@ -32,11 +32,11 @@
    </a>
     
    <a href="https://reactjs.org/">
-       <img alt="JavaScript" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
+       <img alt="React" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
    </a>
    
-   <a href="https://reactnative.dev/">
-       <img alt="JavaScript" width="35px" src="https://appmasters.io/static/react-native-logo-21829a0f16a823088ccbde8e44fb5485.png"/> &nbsp;&nbsp;
+   <a href="https://expo.io/">
+       <img alt="Expo" width="35px" src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F307441%2F815fd2ae-b05f-7a2f-e8af-63f70911eb59.png?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&s=7b46ae57fbaf4b744e3222abbc859b97"/> &nbsp;&nbsp;
    </a>
 </p>
 
