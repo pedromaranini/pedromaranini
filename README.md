@@ -4,9 +4,9 @@
     <img href="https://github.com/pedromaranini" align="right" width="400" height="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
 </p>
 
-<h2 align="center">Contact me</h2>
-
 <p align="center">
+    <h2>Contact me</h2>
+    
    <a href="https://www.linkedin.com/in/pedromaranini30/">
        <img alt="LinkedIn" width="27px" src="https://image.flaticon.com/icons/png/128/61/61109.png?ga=GA1.2.1429006135.1605056873"/> &nbsp;&nbsp;
    </a>
