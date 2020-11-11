@@ -28,7 +28,7 @@
 
 <p align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-       <img alt="JavaScript" width="30px" src="https://reactjs.org/logo-og.png"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/> &nbsp;&nbsp;
    </a>  
 </p>
 
