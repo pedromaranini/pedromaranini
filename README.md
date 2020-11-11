@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/pn7Q2P5/myLogo.jpg" alt="myLogo" border="0"></a>
+    <a href="https://github.com/pedromaranini"><img src="https://i.ibb.co/pn7Q2P5/myLogo.jpg" alt="myLogo" border="0"></a>
 </p>
 
 <p align="center">
