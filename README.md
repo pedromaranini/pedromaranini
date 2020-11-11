@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/pedromaranini">
-      <img align="left" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
+      <img align="left" width="600" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
     </a>
 </p>
 
