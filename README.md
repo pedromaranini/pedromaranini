@@ -28,7 +28,7 @@
 
 <p align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-       <img alt="JavaScript" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="30px" src="https://reactjs.org/logo-og.png"/> &nbsp;&nbsp;
    </a>  
 </p>
 
