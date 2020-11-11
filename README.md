@@ -32,11 +32,11 @@
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="30px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"/> &nbsp;&nbsp;
+       <img alt="HTML" width="38px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-       <img alt="CSS" width="23px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+       <img alt="CSS" width="25px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
