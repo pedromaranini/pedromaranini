@@ -27,16 +27,16 @@
 <h2 align="center" color="44475A">Technologies</h2>
 
 <p align="center">
-   <a href="https://reactjs.org/">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
        <img alt="JavaScript" width="35px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="35px" src="https://img2.gratispng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"/> &nbsp;&nbsp;
+       <img alt="HTML" width="40px" src="https://img2.gratispng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"/> &nbsp;&nbsp;
    </a>
    
-   <a href="https://www.w3schools.com/css/">
-       <img alt="CSS" width="35px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+       <img alt="CSS" width="30px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
