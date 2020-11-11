@@ -18,6 +18,10 @@
    <a href="https://api.whatsapp.com/send?phone=5513997553821&text=Faaaaala%20Pedro%2C%20venho%20atrav%C3%A9s%20do%20Github%20entrar%20em%20contato%20contigo!">
        <img alt="Whatsapp" width="27px" src="https://image.flaticon.com/icons/png/128/38/38334.png?ga=GA1.2.1429006135.1605056873"/> &nbsp;&nbsp;
    </a>
+   
+   <a href="https://www.instagram.com/m4ranini/">
+       <img alt="Instagram" width="27px" src="https://image.flaticon.com/icons/png/128/87/87390.png?ga=GA1.2.1429006135.1605056873"/> &nbsp;&nbsp;
+   </a>
     
 </p>
 
