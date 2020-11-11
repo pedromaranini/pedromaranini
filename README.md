@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/pedromaranini30/">
-       <img alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/128/61/61109.png?ga=GA1.2.1429006135.1605056873"/>
+       <img alt="LinkedIn" width="10px" src="https://image.flaticon.com/icons/png/128/61/61109.png?ga=GA1.2.1429006135.1605056873"/>
    </a>
     
     
