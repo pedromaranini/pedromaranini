@@ -5,9 +5,9 @@
 </p>
 
 **Contact**
-<a href="">
+
     <img alt="LinkedIn" width="32px" src="https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553283-108_84845.png"
-</a>
+
     
 
 
