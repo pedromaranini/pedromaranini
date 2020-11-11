@@ -9,7 +9,7 @@
         <img alt="LinkedIn" width="60px" src="https://w7.pngwing.com/pngs/190/949/png-transparent-linkedin-social-media-lead-generation-marketing-about-me-creative-business-blue-text-trademark.png"/>
     </a>
     <a href="mailto:pedrolucasmaranini30@gmail.com">
-        <img alt="Gmail" width="35px" src="https://img1.gratispng.com/20180320/dfq/kisspng-gmail-computer-icons-mobile-phones-logo-icon-gmail-symbol-5ab1a55de85888.3080917615215916459517.jpg"/>
+        <img alt="Gmail" width="33px" src="https://img1.gratispng.com/20180320/dfq/kisspng-gmail-computer-icons-mobile-phones-logo-icon-gmail-symbol-5ab1a55de85888.3080917615215916459517.jpg"/>
     </a>
 </p>
 
