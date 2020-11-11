@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/pedromaranini">
-      <img align="center" width="600" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
+      <img align="right" width="100" height="100" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" />
     </a>
 </p>
 
