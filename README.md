@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-###     🖥️ I’m student of Analysis and Development of Systems in Fatec.
-###     ⚛️ Focused on study JavaScript.
-###     🎯 Currently allocated as an analyst in a academic project (Project SIGMA) to external client.
+    🖥️ I’m student of Analysis and Development of Systems in Fatec.
+    ⚛️ Focused on study JavaScript.
+    🎯 Currently allocated as an analyst in a academic project (Project SIGMA) to external client.
 </p>
