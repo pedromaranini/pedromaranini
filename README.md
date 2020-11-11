@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+    <h2>Contact me</h2>
+</p>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/pedromaranini30/">
         <img alt="LinkedIn" width="60px" src="https://w7.pngwing.com/pngs/190/949/png-transparent-linkedin-social-media-lead-generation-marketing-about-me-creative-business-blue-text-trademark.png"/>
     </a>
