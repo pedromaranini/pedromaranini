@@ -28,7 +28,7 @@
 
 <p align="center">
    <a href="https://pt-br.reactjs.org/">
-       <img alt="React" width="27px" src="https://t3.ftcdn.net/jpg/02/03/91/52/240_F_203915248_TAnwS9nutBAKoPKrSPj9UOy0rd492dnL.jpg"/> &nbsp;&nbsp;
+       <img alt="React" width="30px" src="https://t3.ftcdn.net/jpg/02/03/91/52/240_F_203915248_TAnwS9nutBAKoPKrSPj9UOy0rd492dnL.jpg"/> &nbsp;&nbsp;
    </a>  
 </p>
 
