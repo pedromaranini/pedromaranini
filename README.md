@@ -14,7 +14,7 @@
         <img alt="Gmail" width="34px" src="https://img1.gratispng.com/20180320/dfq/kisspng-gmail-computer-icons-mobile-phones-logo-icon-gmail-symbol-5ab1a55de85888.3080917615215916459517.jpg"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=5513997553821&text=Faaaaala%20Pedro%2C%20venho%20atrav%C3%A9s%20do%20Github%20entrar%20em%20contato%20contigo!">
-        <img alt="Whatsapp" bottom="100px" width="63px" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2018/11/download.png?resize=246%2C205&ssl=1"/>
+        <img alt="Whatsapp" width="63px" src="https://logospng.org/download/whatsapp/logo-whatsapp-1024.png"/>
     </a>
 </p>
 
