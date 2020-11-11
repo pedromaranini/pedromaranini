@@ -5,12 +5,8 @@
 </p>
 
 <p align="center">
-    **Contact**
-</p>
-
-<p align="center">
     <a href="https://www.linkedin.com/in/pedromaranini30/">
-        <img alt="LinkedIn" width="38px" src="https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553283-108_84845.png" />
+        <img alt="LinkedIn" width="50px" src="https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553283-108_84845.png" />
     </a>
 </p>
 
