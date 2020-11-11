@@ -28,11 +28,11 @@
 
 <p align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
-       <img alt="JavaScript" width="35px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="37px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="38px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"/> &nbsp;&nbsp;
+       <img alt="HTML" width="28px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
