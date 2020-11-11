@@ -24,11 +24,11 @@
    </a>  
 </p>
 
-<h2 align="center" color="44475A">Stack</h2>
+<h2 align="center" color="44475A">Technologies</h2>
 
 <p align="center">
-   <a href="https://pt-br.reactjs.org/">
-       <img alt="React" width="30px" src="https://t3.ftcdn.net/jpg/02/03/91/52/240_F_203915248_TAnwS9nutBAKoPKrSPj9UOy0rd492dnL.jpg"/> &nbsp;&nbsp;
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+       <img alt="JavaScript" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png"/> &nbsp;&nbsp;
    </a>  
 </p>
 
