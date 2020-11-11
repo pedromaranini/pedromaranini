@@ -36,7 +36,7 @@
    </a>
    
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-       <img alt="CSS" width="25px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+       <img alt="CSS" width="24px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
