@@ -28,11 +28,11 @@
 
 <p align="center">
    <a href="https://reactjs.org/">
-       <img alt="JavaScript" width="30px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
-       <img alt="JavaScript" width="30px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="35px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
    </a>  
 </p>
 
