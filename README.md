@@ -1,7 +1,7 @@
 
 <p align="center">
-    <a href="https://github.com/pedromaranini" src="https://i.ibb.co/nCZDCx5/my-Logo-1.jpg" alt="my-Logo-1" border="0" </a>
-    <a href="https://github.com/pedromaranini" align="right" width="400" height="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" </a>
+    <a href="https://github.com/pedromaranini"> <img src="https://i.ibb.co/nCZDCx5/my-Logo-1.jpg" alt="my-Logo-1" border="0" /> </a>
+    <a href="https://github.com/pedromaranini"> <img align="right" width="400" height="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif" /> </a>
 </p>
 
 <h2 align="center" color="44475A">Contact me</h2>
