@@ -7,18 +7,10 @@
 <h2 align="center" color="44475A">Technologies</h2>
 
 <p align="center">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
-       <img alt="JavaScript" width="35px" src="/javascript.svg"/> &nbsp;&nbsp;
+   <a href="https://www.typescriptlang.org/">
+       <img alt="TypeScript" width="35px" src="/typescript.svg"/> &nbsp;&nbsp;
    </a>
-    
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="35px" src="/html5.svg"/> &nbsp;&nbsp;
-   </a>
-   
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-       <img alt="CSS" width="35px" src="/css3.svg"/> &nbsp;&nbsp;
-   </a>
-    
+ 
    <a href="https://reactjs.org/">
        <img alt="ReactJS" width="35px" src="/reactjs.svg"/> &nbsp;&nbsp;
    </a>
@@ -29,6 +21,18 @@
    
    <a href="https://nodejs.org/en/">
        <img alt="NodeJS" width="35px" src="/node.svg"/> &nbsp;&nbsp;
+   </a>
+</p>
+
+<h2 align="center" color="44475A">Support</h2>
+
+<p align="center">    
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+       <img alt="HTML" width="35px" src="/html5.svg"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+       <img alt="CSS" width="35px" src="/css3.svg"/> &nbsp;&nbsp;
    </a>
 </p>
 
