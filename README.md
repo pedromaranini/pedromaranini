@@ -28,7 +28,7 @@
 
 <p align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
-       <img alt="JavaScript" width="37px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="37px" src="/javascript.svg"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
