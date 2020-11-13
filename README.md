@@ -1,6 +1,13 @@
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/pedromaranini"><img src="https://i.ibb.co/xfCfX7Q/my-Logo-2.jpg" alt="my-Logo-2"></a>
+</p>
+
+<h2>About</h2>
+<p>
+    ASDASJIDKJIASDJIASDIASIOD
+    ASDKASDJIKOPASJIKOPD
+    ASDJIKASDJIO
 </p>
 
 <h2 align="center" color="44475A">Technologies</h2>
@@ -13,13 +20,13 @@
    <a href="https://reactjs.org/">
        <img alt="ReactJS" width="35px" src="/reactjs.svg"/> &nbsp;&nbsp;
    </a>
+      
+   <a href="https://nodejs.org/en/">
+       <img alt="NodeJS" width="35px" src="/node.svg"/> &nbsp;&nbsp;
+   </a>
    
    <a href="https://expo.io/">
        <img alt="Expo" width="35px" src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F307441%2F815fd2ae-b05f-7a2f-e8af-63f70911eb59.png?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&s=7b46ae57fbaf4b744e3222abbc859b97"/> &nbsp;&nbsp;
-   </a>
-   
-   <a href="https://nodejs.org/en/">
-       <img alt="NodeJS" width="35px" src="/node.svg"/> &nbsp;&nbsp;
    </a>
 </p>
 
