@@ -3,8 +3,8 @@
     <a href="https://github.com/pedromaranini"><img src="https://i.ibb.co/xfCfX7Q/my-Logo-2.jpg" alt="my-Logo-2"></a>
 </p>
 
-<h2>About</h2>
-<p>
+<h2 align="right">About</h2>
+<p align="right">
     ASDASJIDKJIASDJIASDIASIOD
     ASDKASDJIKOPASJIKOPD
     ASDJIKASDJIO
