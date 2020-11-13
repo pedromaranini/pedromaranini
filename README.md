@@ -28,19 +28,19 @@
 
 <p align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
-       <img alt="JavaScript" width="37px" src="/javascript.svg"/> &nbsp;&nbsp;
+       <img alt="JavaScript" width="35px" src="/javascript.svg"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-       <img alt="HTML" width="30px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"/> &nbsp;&nbsp;
+       <img alt="HTML" width="35px" src="/html5.svg"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-       <img alt="CSS" width="24px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"/> &nbsp;&nbsp;
+       <img alt="CSS" width="35px" src="/css3.svg"/> &nbsp;&nbsp;
    </a>
     
    <a href="https://reactjs.org/">
-       <img alt="ReactJS" width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> &nbsp;&nbsp;
+       <img alt="ReactJS" width="35px" src="/reactjs.svg"/> &nbsp;&nbsp;
    </a>
    
    <a href="https://expo.io/">
@@ -48,7 +48,7 @@
    </a>
    
    <a href="https://nodejs.org/en/">
-       <img alt="NodeJS" width="33px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/> &nbsp;&nbsp;
+       <img alt="NodeJS" width="35px" src="/node.svg"/> &nbsp;&nbsp;
    </a>
 </p>
 
