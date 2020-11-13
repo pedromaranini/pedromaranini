@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/xfCfX7Q/my-Logo-2.jpg" alt="my-Logo-2"></a>
+    <a href="https://github.com/pedromaranini"><img src="https://i.ibb.co/xfCfX7Q/my-Logo-2.jpg" alt="my-Logo-2"></a>
 </p>
 
 <h2 align="center" color="44475A">Technologies</h2>
