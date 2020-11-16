@@ -38,6 +38,22 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
        <img alt="CSS" width="35px" src="/css3.svg"/> &nbsp;&nbsp;
    </a>
+   
+   <a href="https://www.sqlite.org/index.html">
+       <img alt="SQLite" width="35px" src="/sqlite.png"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://www.mongodb.com/">
+       <img alt="MongoDB" width="35px" src="/mongodb.png"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://insomnia.rest/">
+       <img alt="Insomnia" width="35px" src="/insomnia.png"/> &nbsp;&nbsp;
+   </a>
+   
+   <a href="https://www.postman.com/">
+       <img alt="Postman" width="35px" src="/postman.svg"/> &nbsp;&nbsp;
+   </a>
 </p>
 
 <h2 align="center" color="44475A">Contact me</h2>
