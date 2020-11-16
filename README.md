@@ -52,7 +52,7 @@
    </a>
    
    <a href="https://www.postman.com/">
-       <img alt="Postman" width="35px" src="/postman.svg"/> &nbsp;&nbsp;
+       <img alt="Postman" width="35px" src="/postman.png"/> &nbsp;&nbsp;
    </a>
 </p>
 
