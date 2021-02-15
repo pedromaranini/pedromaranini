@@ -14,6 +14,10 @@
 <h2 align="center" color="44475A">Technologies</h2>
 
 <p align="center">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+       <img alt="JavaScript" width="35px" src="/javascript.svg"/> &nbsp;&nbsp;
+   </a>
+    
    <a href="https://www.typescriptlang.org/">
        <img alt="TypeScript" width="35px" src="/typescript.svg"/> &nbsp;&nbsp;
    </a>
