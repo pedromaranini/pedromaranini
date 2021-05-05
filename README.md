@@ -8,7 +8,6 @@
 
 <p align="center"> I'm working hard to become a web developer, what i use to develop and support, they are all below.</p>
 <p align="center">I'm studying Analysis and Systems Development at Faculdade de Tecnologia de Praia Grande (FATEC - PG).</p>
-<p align="center">I'm allocated on a project academic and volunteer, to a client external in the health area, in the analysis and modeling team, and coming soon i will participate of development.</p>
 <p align="center">If you want know me better, contact me on any social media below, see you later, bye :smiley: !!!</p>
 
 <h2 align="center" color="44475A">Technologies</h2>
