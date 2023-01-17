@@ -1,9 +1,4 @@
 
-<p align="center">
-    <a href="https://github.com/pedromaranini"><img src="https://i.ibb.co/xfCfX7Q/my-Logo-2.jpg" alt="my-Logo-2"></a>
-</p>
-
-<h2 align="center" top="0">About</h2>
 <h3 align="center">Hiiii, welcome to my profile, my name is Pedro, nice to meet you!</h3>
 
 <p align="center"> I'm working hard to become a web developer, what i use to develop and support, they are all below.</p>
