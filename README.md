@@ -20,4 +20,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pmaranini/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasmaranini30@gmail.com)
 
-![Pedro Maranini's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromaranini&theme=dark&show_icons=true)
